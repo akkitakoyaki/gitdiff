@@ -1,1 +1,1 @@
-printf pro3.txt
+pro3.txt

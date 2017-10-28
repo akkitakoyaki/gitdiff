@@ -1,1 +1,2 @@
 printf pro1.txt
+sec -> printf pro1.txt
